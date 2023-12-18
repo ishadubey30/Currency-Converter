@@ -42,21 +42,26 @@ strong {
 
 }
 
+
+
 .item{
     /* display: flex;
     justify-content: space-between; */
     
-    font-size: x-large;
+    font-size: 30px;
+    padding-bottom: 20px;
   
 }
 
-input {
-  
-  
-border-radius: 6px;
-width: inherit;
-padding-bottom: 10px;
+select  { 
+border-radius: 4px;
+width: 175px;
+padding-bottom: 0px;
+text-align: center;
+height: 25px;
 }
+
+
 form{height: 334px;
 position: relative
 ;
@@ -80,13 +85,15 @@ color: white;
 }
  h3{
     margin-top: 0;
-    margin-bottom: 39px;
+    padding-top: 0;
+    margin-bottom: 35px;
  }
 
  .result {
-    color: white;
+    margin-top: 144px;
+    color: #080808;
     padding: 10px;
-    font-size: x-large;
+    font-size: xxx-large;
     text-align: center;
  }
 
